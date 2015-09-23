@@ -16,7 +16,7 @@ git clone https://github.com/dokku/dokku-elasticsearch.git elasticsearch
 dokku plugins-install
 
 # on 0.4.x
-dokku plugin:install https://github.com/dokku/dokku-elasticsearch.git elasticsearch
+dokku plugin:install https://github.com/dokku/dokku-elasticsearch.git
 ```
 
 ## commands
